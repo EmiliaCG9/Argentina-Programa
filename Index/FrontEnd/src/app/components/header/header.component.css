@@ -1,0 +1,11 @@
+.row{
+    margin: 0%;
+}
+div {
+    background-color: violet;
+}
+
+app-social{
+    float: right;
+    margin-top: 25px;
+}

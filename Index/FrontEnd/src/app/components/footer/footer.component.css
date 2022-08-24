@@ -1,0 +1,13 @@
+.row{
+    background-color: violet;
+}
+
+footer{
+    color: ghostwhite;
+    background-color: purple;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: center;
+}
